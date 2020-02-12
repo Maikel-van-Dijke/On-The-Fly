@@ -31,3 +31,10 @@ li a:hover:not(.active) {
     background-color: #555;
     color: white;
 }
+
+.toevoegen{
+    margin-left: 15%;
+    margin-top: 5%;
+    font-size: 25px;
+    color: black;
+}
