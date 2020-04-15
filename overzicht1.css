@@ -1,0 +1,40 @@
+body{
+    background-color: lightblue;
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    margin: 0
+}
+
+.titel{
+    color: black;
+    background-color: cornflowerblue;
+    font-size: 200%;
+}
+.item{
+    color: black;
+    font-size: 200%;
+}
+.lijstStijl{
+    background-color: blue;
+    margin-left: 24%;
+    margin-top: 10%;
+    text-align: left;
+    width: 1000px;
+}
+tr{
+    background-color: lightblue;
+}
+
+.terug{
+    font-size: 20px;
+    margin-left: 79.5%;
+}
+.terug:link{
+    color: black;
+    background-color: lightblue;
+    text-decoration: none;
+}
+.terug:hover{
+    color: lightblue;
+    background-color: black;
+}

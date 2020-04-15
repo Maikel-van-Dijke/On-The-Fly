@@ -1,10 +1,9 @@
 <?php
-    $host = "localhost";
-    $dbname = "onthefly";
-    $gebruiker = "root";
-    $wachtwoord = "";
+$host = "localhost";
+$dbname = "onthefly";
+$username = "root";
+$password = "";
 
-    $conn = new PDO("mysql:host=$host;dbname$dbname;user=$gebruiker;")
-
+$con = new PDO("mysql:host=$host;dbname=$dbname","$username","$password");
 
 ?>

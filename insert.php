@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
     <title>On the fly</title>
-    <link rel="stylesheet" href="vliegtuigje1.css">
+    <link rel="stylesheet" href="vliegtuigje3.css">
 </head>
 <!DOCTYPE html>
 <html>
